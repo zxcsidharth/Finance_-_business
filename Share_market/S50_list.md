@@ -67,4 +67,3 @@ BUT AGAR HUM CHAHTE HAIN KI EK HI BAAR ME S50 AND S50_NXT NIKAL DE TO USS CASE M
 - agar kisi ka graph dekh kar lag raha hai ki growth hai but bahut kam hai to usko alag se ek watchlist me rakho.. taki gar hamara list me kamm stocks hua to hum unn stocks ko consider kar sakte hain.
 - Kuch kuch seasonal wali companies hoti hain like A/C refrigerator, heater etc. unn companies ko
 
-LAST WATCH:- LIVE 3 - complete
