@@ -11,10 +11,14 @@
             "id": "55e2c74ae6f5d5ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Share_market/Task.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Task"
             }
           }
         ],
@@ -181,9 +185,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "23183e2a093231f4",
+  "active": "55e2c74ae6f5d5ee",
   "lastOpenFiles": [
+    "Share_market/AI_in_stock_analysis.md",
+    "Share_market/Task.md",
+    "Share_market/Fundamental_analysis.md",
+    "Share_market/basic_concepts.md",
+    "Share_market/Futuristic_stock.md",
+    "Share_market/Strategies.md",
+    "Share_market/questions.md",
+    "Share_market/IPO_explained.md",
+    "Share_market/Value_investing.md",
+    "Share_market/S50_list.md",
     "Share_market/Terminologies_in_detail.md",
+    "Pasted image 20260130094215.png",
+    "Pasted image 20260130094155.png",
     "Share_market/Images/Pasted image 20260129164423.png",
     "Share_market/Images/Pasted image 20260129164244.png",
     "Share_market/Images/Pasted image 20260129162435.png",
@@ -191,20 +207,9 @@
     "Share_market/Images/Pasted image 20260129134318.png",
     "Share_market/Images/Pasted image 20260128135142.png",
     "Share_market/Images/Pasted image 20260128134220.png",
-    "Share_market/Fundamental_analysis.md",
     "Share_market/Images/Pasted image 20260128084545.png",
-    "Share_market/Images/Pasted image 20260115185149.png",
-    "Share_market/Images/Pasted image 20260115185743.png",
-    "Share_market/Strategies.md",
-    "Share_market/Futuristic_stock.md",
-    "Share_market/IPO_explained.md",
-    "Share_market/S50_list.md",
-    "Share_market/basic_concepts.md",
-    "Share_market/Value_investing.md",
     "Share_market/S200+.md",
-    "Share_market/questions.md",
     "investing_in_debt_liquid_bond_fund.md",
-    "Share_market/AI_in_stock_analysis.md",
     "My_investement_roadmap.md",
     "Business_talks.md",
     "ETF.md",

@@ -100,6 +100,7 @@ EV (Enterprise value) = (Market cap + Debt) - Cash or Cash equivalent
 
 this is the range of EV/EBITDA value, to decide when to buy
 ![[Pasted image 20260128135142.png]]
+
 #### How to calculate the target and entry price using EV/EBITDA model?
 Jis v company ka karna hai, yad rhe ki pehle uske financial analysis complete karne k bad karen.
 - EK table banao jisme ki 5 sal ka EV/EBITDA dalo ek row me aur fir 5 sal ka ek dusre row me sirf EV dalo.
